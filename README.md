@@ -6,6 +6,9 @@ mobile hotspot and dumping its firmware — done 2026‑07‑10.**
 This is a standalone lab notebook. Everything below can be reproduced from
 scratch on any AC797S with only a USB cable and the device's admin password.
 
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/68817ed3-ef38-4b5f-b8e5-215ef8dfc386" />
+
+
 ---
 ## Web Admin
 
