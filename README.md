@@ -1,3 +1,6 @@
+<img width="2048" height="768" alt="I Break Things for Fun" src="https://github.com/user-attachments/assets/615b22a5-63fb-4888-992c-e75281209725" />
+
+
 # NETGEAR AirCard 797S (AC797S) — Root & Firmware Dump
 
 **A complete, replicable walkthrough of gaining root on a NETGEAR AirCard 797S
